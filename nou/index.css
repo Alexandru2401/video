@@ -4,9 +4,14 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    color: white;
+    color: red;
+}
+
+h2{
+    color: green;
 }
 
 p{
-    color: black;
+    color: white;
+    font-size: 2rem;
 }
